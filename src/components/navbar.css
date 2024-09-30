@@ -1,0 +1,3 @@
+.MiShadow {
+  text-shadow: 4px 4px 4px hsl(var(--destructive));
+}
